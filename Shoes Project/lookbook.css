@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid h1{
+text-align: center;
+font-size: 50px;
+margin-top: 3rem;
+}
+.container-fluid img{
+    margin-top: 20px;
+    height:500px;
+    width: 100%;
+    
+}
+.BTN{
+    border: none;
+    background-color: white;
+    border-bottom: 2px solid orangered;
+    padding: 3px;
+}
+.card2{
+    margin-left: 30%;
+    border: none;
+}
+.card-titles{
+    font-size: 30px;
+}
+.card-texts{
+    font-size: 16px;
+    line-height: 22px;
+}
+.btn4{
+    padding: 10px;
+    background-color: white;
+    width: 10%;
+}
+.card-img-overlay{
+    text-align: center;
+    margin-top: 10rem;
+}
+.return{
+    /* margin-top: 5rem; */
+    position: relative;
+    top: 30px;
+    display: flex;
+    margin: auto;
+    /* justify-content: space-evenly; */
+}
+.secure{
+    display: flex;
+    margin: auto;
+    gap: 20px;
+    font-size: 40px;
+}
+.text{
+    margin-top: 15px;
+}
+.footer{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    padding: 10px;
+}
+.footer1{
+    margin-top: 20px;
+}
+.Footer{
+    background-color: rgb(180, 179, 179);
+    
+}
+.btn5{
+    width: 5%;
+}
+#fixed{
+    background-color: darkgray;
+}

@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.plant1{
+    background-image: url("https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-store-hero-image-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+.btns{
+    /* margin-left:122px; */
+    position:relative;
+    top: 15rem;
+    display: flex;
+    margin: auto;
+    gap: 30px;
+    margin-left: 122px;
+    border-radius: 1px solid white;
+   
+}
+.btn1{
+    font-size: 12px;
+    padding: 10px;
+}
+.plant1 h1{
+    font-size: 65px;
+    position:relative;
+    top: 13rem;
+    margin-left: 122px;
+    color: white;
+}
+.plant1 p{
+    margin-left: 122px;
+    position:relative;
+    top: 13rem;
+    /* margin-left: 40px; */
+    color: white;
+}
+.card p{
+    margin-top: 30px;
+}
+
+.logo1 p{
+    margin-top: 37px;
+}
+#btn2{
+    border-bottom: 2px solid rgb(224, 128, 3);
+}
+.shoes1{
+    text-align: center;
+    /* margin-top: 30px; */
+    position: relative;
+    top: 40px;
+}
+#canvas{
+    justify-content: space-between;
+    
+}
+.made{
+    background-color:rgb(238, 236, 236);
+}
+.cotton{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+.cards{
+    display: flex;
+}
+.card-body{
+    text-align: center;
+}
+.card-group{
+    gap: 30px;
+    margin-top: 20px;
+}
+.Sneaker{
+    margin-top: 3rem;
+}
+.best{
+    border: none;
+    background-color: white;
+    border-bottom: 2px solid orangered;
+}
+.Seller{
+    display:flex;
+    justify-content: space-between;
+}
+.card-title a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.card{
+    border: none;
+}
+.upload{
+    width: 95%;
+    margin: auto;
+}
+.card-img-overlay{
+    text-align: center;
+    margin-top: 10rem;
+}
+.below{
+    margin-top: 5rem;
+}
+.massa{
+    display: flex;
+    margin: auto;
+    /* justify-content: space-between; */
+}
+.dui{
+    display: flex;
+    margin: auto;
+    gap: 30px;
+
+}
+.massa2 img{
+    border-radius: 50%;
+    width: 80%;
+    margin-left: 70%;
+    margin-top: 4rem;
+}
+.upload1{
+    width: 95%;
+    height: 400px;
+    margin: auto;
+    background-color:rgb(231, 224, 224);
+}
+.massa1 p{
+    margin-top: 5rem;
+}
+.massa1 img{
+  margin-top: 25px;
+}
+.Customers{
+    position: relative;
+    top: 5rem;
+}
+.Customers h1 {
+text-align: center;
+}
+.semper{
+    display: flex;
+    margin: auto;
+    /* justify-content: space-between; */
+    gap: 20px;
+    margin-left: 100px;
+}
+#image img{
+    border-radius: 50%;
+}
+#image i{
+    color: gold;
+}
+#image a{
+    text-decoration: none;
+    color: black;
+}
+.average{
+    text-align: center;
+}
+.card-title1{
+    font-size: 70px;
+}
+.card-text1{
+    font-size: 20px;
+}
+.btn4{
+    padding: 10px;
+    background-color: white;
+    width: 10%;
+}
+.return{
+    /* margin-top: 5rem; */
+    position: relative;
+    top: 30px;
+    display: flex;
+    margin: auto;
+    /* justify-content: space-evenly; */
+}
+.secure{
+    display: flex;
+    margin: auto;
+    gap: 20px;
+    font-size: 40px;
+}
+.text{
+    margin-top: 15px;
+}
+.footer{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    padding: 10px;
+}
+.footer1{
+    margin-top: 20px;
+}
+.Footer{
+    background-color: rgb(180, 179, 179);
+    
+}
+
+
+@media only screen and (max-width:768px){
+    
+    .cotton img{
+        width: 100%;
+    }
+    .massa2 img {
+        border-radius: 50%;
+        width: 80%;
+        margin-left: 19%;
+        margin-top: 4rem;
+    }
+}
+@media only screen and (max-width: 425px){
+    .card-title{
+        margin-left: -136px;
+    }
+    
+.plant1 h1 {
+    font-size: 47px;
+    position: relative;
+    top: 13rem;
+    margin-left: 50px;
+    color: white;
+}
+.plant1 p {
+    margin-left: 122px;
+    position: relative;
+    top: 13rem;
+    margin-left: 56px;
+    color: white;
+}
+.btns {
+    /* margin-left: 122px; */
+    position: relative;
+    top: 13rem;
+    display: flex;
+    margin: auto;
+    gap: 30px;
+    margin-left: 60px;
+    border-radius: 1px solid white;
+}
+.card-title {
+    margin-left: -172px;
+    font-size: 15px;
+}
+.card p {
+    margin-top: 30px;
+    margin-left: -136px;
+    font-size: 12px;
+}
+
+
+}
+    
